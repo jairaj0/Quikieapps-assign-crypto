@@ -1,0 +1,15 @@
+.header-container {
+  background-color: #0b7285;
+  padding: 1rem 2rem;
+}
+.header-container h2 {
+  color: #74c0fc;
+  font-size: 4rem;
+  font-weight: 500;
+}
+.header-container h3 {
+  color: black;
+  font-weight: 500;
+  margin-left: 10rem;
+  margin-top: -1rem;
+}

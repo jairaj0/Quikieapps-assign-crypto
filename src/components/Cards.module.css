@@ -1,0 +1,23 @@
+.cards-container {
+  width: 100%;
+  display: flex;
+  padding: 1rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card {
+  background-color: #f3f0ff;
+  width: 60%;
+  margin: 1rem;
+  padding: 2rem;
+  border: dotted;
+  border-color: #e9ecef;
+
+  display: flex;
+  justify-content: space-between;
+}
+.card img {
+  width: 5rem;
+  height: 5rem;
+}
